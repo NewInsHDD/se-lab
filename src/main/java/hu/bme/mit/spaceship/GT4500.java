@@ -88,7 +88,6 @@ public class GT4500 implements SpaceShip {
           wasPrimaryFiredLast = true;
         }
         break;
-        //BRANCH A
     }
 
     return firingSuccess;
